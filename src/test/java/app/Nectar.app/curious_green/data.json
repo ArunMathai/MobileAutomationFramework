@@ -1,0 +1,80 @@
+{
+	"bgColor": "#00d999",
+	"fps": 30,
+	"sequence": [
+		{
+			"type": "blank",
+			"frameCount": 3
+		},
+		{
+			"type": "layers",
+			"frameCount": 75,
+			"layers": [0, 1]
+		},
+		{
+			"type": "blank",
+			"frameCount": 6
+		},
+		{
+			"type": "layers",
+			"frameCount": 75,
+			"layers": [2, 3]
+		},
+		{
+			"type": "blank",
+			"frameCount": 7
+		},
+		{
+			"type": "layers",
+			"frameCount": 66,
+			"layers": [4]
+		},
+		{
+			"type": "blank",
+			"frameCount": 13
+		}
+	],
+	"size": [1080, 1920],
+	"layers": [
+		{
+			"src": "Curious_Green_Blob_1.jpg",
+			"sheetCroppedSize": [229.2, 326.375],
+			"sheetColumnCount": 10,
+			"sheetSize": [750, 1333],
+			"positionSize": [1080, 1920],
+			"positionFrames": [[944,518]]
+		},
+		{
+			"src": "Curious_Green_Shadow_1.jpg",
+			"sheetCroppedSize": [277.8, 97.2],
+			"sheetColumnCount": 5,
+			"sheetSize": [750, 1333],
+			"positionSize": [1080, 1920],
+			"positionFrames": [[910,1635]]
+		},
+		{
+			"src": "Curious_Green_Blob_2.jpg",
+			"sheetCroppedSize": [180.545, 236.143],
+			"sheetColumnCount": 11,
+			"sheetSize": [750, 1333],
+			"positionSize": [1080, 1920],
+			"positionFrames": [[128,1148]]
+		},
+		{
+			"src": "Curious_Green_Shadow_2.jpg",
+			"sheetCroppedSize": [250, 97.2],
+			"sheetColumnCount": 5,
+			"sheetSize": [750, 1333],
+			"positionSize": [1080, 1920],
+			"positionFrames": [[158,1442]]
+		},
+		{
+			"src": "Curious_Green_Blob_3.jpg",
+			"sheetCroppedSize": [250, 215.286],
+			"sheetColumnCount": 10,
+			"sheetSize": [750, 1333],
+			"positionSize": [1080, 1920],
+			"positionFrames": [[668,86],[668,86],[668,86],[668,86],[668,86],[668,86],[668,86],[668,86],[668,86],[666.661,87.1157],[665.324,88.2303],[663.983,89.3475],[662.643,90.4642],[661.308,91.5764],[659.975,92.6879],[658.642,93.7985],[657.308,94.9103],[655.975,96.0208],[654.644,97.13],[653.313,98.2394],[651.982,99.3481],[650.652,100.457],[649.321,101.566],[647.989,102.676],[646.654,103.788],[645.328,104.893],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[644,106],[649.333,97.3333],[654.667,88.6661],[660.002,79.9962],[665.335,71.33],[670.662,62.6741],[676,54],[676,54],[676,54],[676,54],[676,54],[676,54],[676,54]]
+		}
+	]
+}

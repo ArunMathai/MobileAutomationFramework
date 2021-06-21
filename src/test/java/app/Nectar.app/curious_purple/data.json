@@ -1,0 +1,30 @@
+{
+	"bgColor": "#8520F7",
+	"fps": 30,
+	"sequence": [
+		{
+			"type": "blank",
+			"frameCount": 3
+		},
+		{
+			"type": "layers",
+			"frameCount": 75,
+			"layers": [0]
+		},
+		{
+			"type": "blank",
+			"frameCount": 6
+		},
+	],
+	"size": [1, 1],
+	"layers": [
+		{
+			"src": "Curious_Purple_Blob_1_00000.png",
+			"sheetCroppedSize": [229.2, 326.375],
+			"sheetColumnCount": 10,
+			"sheetSize": [750, 1333],
+			"positionSize": [390, 460],
+			"positionFrames": [[340,60]]
+		},
+	]
+}

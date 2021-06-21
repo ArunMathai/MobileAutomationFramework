@@ -1,0 +1,41 @@
+{
+	"bgColor": "#8520F7",
+	"fps": 30,
+	"sequence": [
+		{
+			"type": "layers",
+			"frameCount": 90,
+			"layers": [0]
+		},
+		{
+			"type": "layers",
+			"frameCount": 82,
+			"layers": [1]
+		}
+	],
+	"liquid": {
+		"defaultPercent": 0.5,
+		"color": "#8520F7"
+	},
+	"size": [1080, 1920],
+	"layers": [
+		{
+			"src": "Liquid_Purple_1_00000.png",
+			"sheetCroppedSize": [750, 208.333],
+			"sheetColumnCount": 5,
+			"sheetSize": [750, 1333],
+			"positionSize": [1080, 1920],
+			"positionFrames": [[540,960]],
+			"isLiquid": true
+		},
+		{
+			"src": "Liquid_Purple_2_00000.png",
+			"sheetCroppedSize": [750, 208.353],
+			"sheetColumnCount": 5,
+			"sheetSize": [750, 1333],
+			"positionSize": [1080, 1920],
+			"positionFrames": [[540,960]],
+			"isLiquid": true
+		}
+	]
+}

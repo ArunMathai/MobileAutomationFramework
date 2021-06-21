@@ -1,0 +1,130 @@
+{
+    "businessCategories": {
+        "Agriculture": {
+            "AG-FG": "Fishing",
+            "AG-FL": "Forestry, Logging",
+            "AG-GW": "Gardener",
+            "AG-LF": "Livestock Farming",
+            "AG-MF": "Mixed Farming",
+            "AG-OT": "Other"
+        },
+        "Business Services": {
+            "BS-AC": "Architect",
+            "BS-IC": "IT Consultancy",
+            "BS-LF": "Legal, Finance",
+            "BS-MC": "Management Consultancy",
+            "BS-MK": "Marketing",
+            "BS-OT": "Other",
+            "BS-RE": "Research, Education"
+        },
+        "Communication": {
+            "CM-HL": "Haulage",
+            "CM-OT": "Other",
+            "CM-PC": "Postal, Courier",
+            "CM-TN": "Telecommunication"
+        },
+        "Financial Services": {
+            "FI-FI": "Financial Intermediary",
+            "FI-IP": "Insurance, Pensions",
+            "FI-OT": "Other"
+        },
+        "Health & Social": {
+            "HS-MP": "Medical Practitioner",
+            "HS-OT": "Other",
+            "HS-SW": "Social work",
+            "HS-VT": "Veterinary"
+        },
+        "Hotels, Pubs & Restaurants": {
+            "HP-BP": "Bars, Pubs",
+            "HP-HT": "Hotels",
+            "HP-OT": "Other",
+            "HP-RS": "Restaurants"
+        },
+        "Manufacturing": {
+            "MA-CL": "Clothing",
+            "MA-FB": "Food, Beverages",
+            "MA-FR": "Furniture",
+            "MA-ME": "Machinery, Equipment",
+            "MA-MT": "Metals",
+            "MA-OT": "Other",
+            "MA-PC": "Pharmaceutical",
+            "MA-PP": "Publishing, Printing",
+            "MA-RP": "Rubber, Plastic",
+            "MA-TT": "Textiles",
+            "MA-WP": "Wood Products"
+        },
+        "Other": {
+            "OT-OT": "Other"
+        },
+        "Property Services": {
+            "PS-EA": "Estate Agent",
+            "PS-OT": "Other",
+            "PS-PD": "Property Development",
+            "PS-PL": "Property Letting"
+        },
+        "Retail": {
+            "RT-FT": "Food, Beverages, Tobacco",
+            "RT-HP": "Household, Personal Repairs",
+            "RT-NS": "Non-Specialised Stores",
+            "RT-OT ": "Other",
+            "RT-PC": "Pharmaceutical, Medical, Cosmetic"
+        },
+        "Service/Maintenance": {
+            "SR-MA": "Maintenance",
+            "SR-OT": "Other",
+            "SR-SR": "Service"
+        },
+        "Social & Personal Activities": {
+            "SP-ET": "Entertainment",
+            "SP-OT": "Other",
+            "SP-PL": "Professional",
+            "SP-RT": "Recreational",
+            "SP-SP": "Sporting"
+        },
+        "Storage": {
+            "ST-OT": "Other",
+            "ST-ST": "Storage"
+        },
+        "Trade & Construction": {
+            "CO-BL": "Builder",
+            "CO-CP": "Carpenter",
+            "CO-EL": "Electrician",
+            "CO-OT": "Other",
+            "CO-PD": "Painter, Decorator",
+            "CO-PL": "Plumber"
+        },
+        "Transport": {
+            "TR-OT": "Other",
+            "TR-SP": "Shipping",
+            "TR-TV": "Travel"
+        },
+        "Transport, Storage, Communication": {
+            "TS-HL": "Haulage",
+            "TS-LT": "Land transport",
+            "TS-OT": "Other",
+            "TS-PC": "Postal, Courier",
+            "TS-SP": "Shipping",
+            "TS-ST": "Storage",
+            "TS-TN": "Telecommunication",
+            "TS-TV": "Travel"
+        },
+        "Wholesale": {
+            "WH-FT": "Food, Beverages, Tobacco",
+            "WH-HG": "Household Goods",
+            "WH-ME": "Machinery, Equipment",
+            "WH-OT": "Other",
+            "WH-VM": "Vehicle Repair, Maintenance"
+        }
+    },
+    "businessEmployees": {
+        "A": "0",
+        "B": "1",
+        "C": "2 - 5",
+        "D": "6 - 10",
+        "E": "11 - 20",
+        "F": "21 - 50",
+        "G": "51 - 100",
+        "H": "101 - 250",
+        "I": "251 plus"
+    }
+}
